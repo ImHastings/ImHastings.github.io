@@ -125,7 +125,7 @@ iframe {
   font-weight: bold;
 }
 .header .profile-image {
-  margin-right: 30px;
+  margin-right: 20px;
 }
 .header .profile-content .name {
   color: #49515a;
@@ -143,8 +143,8 @@ iframe {
 }
 .header .profile-content .social a {
   background: #b0b7bf;
-  width: 20px;
-  height: 20px;
+  width: 36px;
+  height: 36px;
   display: inline-block;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
